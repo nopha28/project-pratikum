@@ -13,4 +13,4 @@ TUGAS:BAHASA PEMOGRAMAN
 
 > print
 
-!{projek}(gambar/print.png)
+!{gambar}(projek/print.png)
