@@ -14,3 +14,7 @@ TUGAS:BAHASA PEMOGRAMAN
 > print
 
 ![gambar](gambar/print.PNG)
+
+*  Hasil Print
+
+![gambar](gambar/print1.PNG)
