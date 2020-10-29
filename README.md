@@ -9,3 +9,4 @@ TUGAS:BAHASA PEMOGRAMAN
 
 # Pengertian Print
 
+* Fungsi print("") berfungsi untuk mencetak atau menampilkana obyek ke layar atau kefile text
