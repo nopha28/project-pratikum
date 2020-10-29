@@ -13,4 +13,4 @@ TUGAS:BAHASA PEMOGRAMAN
 
 > print
 
-!{project-pratikum}(gambar/print.png)
+!{projek}(gambar/print.png)
