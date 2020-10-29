@@ -18,3 +18,9 @@ TUGAS:BAHASA PEMOGRAMAN
 *  Hasil Print
 
 ![gambar](gambar/print1.PNG)
+
+# Bitwise (,)
+
+* Bitwise adalah operator khusus untuk menangani operasi logika bilangan biner dalam bentuk bit.
+
+![gambar](gambar/bitwie.PNG)
