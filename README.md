@@ -4,10 +4,6 @@
 # Menjelaskan Projek 
 
 
-![gambar](gambar/log.PNG)
-
-
-
 NAMA : Nova Tegar Adiyansyah
 
 NIM  : 312010145
@@ -16,6 +12,7 @@ KELAS: TI.20.A.1
 
 TUGAS:BAHASA PEMOGRAMAN
 
+![gambar](gambar/log.PNG)
 
 
 # Pengertian Print
