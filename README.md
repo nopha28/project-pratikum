@@ -35,10 +35,33 @@ TUGAS:BAHASA PEMOGRAMAN
 * Aritmatika terdiri dari 6 operator dan symbol.Berikut Contohnya
 
 
-*contoh oprator symbol
+* contoh oprator symbol
 
 ![gambar](gambar/aritmatika.PNG)
 
 * setelah di run
 
 ![gambar](gambar/aritmatika1.PNG)
+
+
+# Pengunaan (END)
+
+* Jadi pengunaan *end* adalah, untuk menyatukan semua variabel,Berikut contohnya
+
+
+> pengunaan end
+
+![gambar](gambar/end.PNG)
+
+* setelah menjalankan
+
+![gambar](gambar/end1.PNG)
+
+
+# Pengunaan Separtor
+
+
+* sep adalah pemisah yang berfungsi sebagai tanda pemisah antar obyek yang di cetak.contohnya seperti di bawah
+
+
+![gambar](gambar/sep.PNG)
