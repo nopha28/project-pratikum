@@ -29,3 +29,16 @@ TUGAS:BAHASA PEMOGRAMAN
 
 ![gambar](gambar/bitwise1.PNG)
 
+
+# Aritmatika dalam bahasa pemograman
+
+* Aritmatika terdiri dari 6 operator dan symbol.Berikut Contohnya
+
+
+*contoh oprator symbol
+
+![gambar](gambar/aritmatika.PNG)
+
+* setelah di run
+
+![gambar](gambar/aritmatika1.PNG)
