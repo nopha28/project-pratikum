@@ -4,7 +4,7 @@
 # Menjelaskan Projek 
 
 
-![gambar](gambar/logo.png)
+![gambar](gambar/log.PNG)
 
 
 
