@@ -1,11 +1,22 @@
 # Tugas ini untuk melengkapi pertemuan 6
 
+
 # Menjelaskan Projek 
 
+
+![gambar](gambar/logo.png)
+
+
+
 NAMA : Nova Tegar Adiyansyah
+
 NIM  : 312010145
+
 KELAS: TI.20.A.1
+
 TUGAS:BAHASA PEMOGRAMAN
+
+
 
 # Pengertian Print
 
