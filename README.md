@@ -12,7 +12,7 @@ KELAS: TI.20.A.1
 
 TUGAS:BAHASA PEMOGRAMAN
 
-![gambar](gambar/log.PNG)
+![project-pratikum](gambar/log.PNG)
 
 
 # Pengertian Print
