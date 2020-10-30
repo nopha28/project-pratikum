@@ -65,3 +65,8 @@ TUGAS:BAHASA PEMOGRAMAN
 
 
 ![gambar](gambar/sep.PNG)
+
+
+* setelah menjalankan
+
+![gambar](gambar/sep1.PNG)
