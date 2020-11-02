@@ -107,3 +107,49 @@ Keterangan :
 Hasil dari output tersebut seperti berikut :<br>
 
 ![project-pratikum](gambar/latihan5.PNG)
+
+
+## Pertemuan 6 - Lab 1
+
+
+Pada halaman ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan Bahasa Pemrograman Python. Berikut source code yang diberikan oleh Dosen. <br>
+
+![project-praktikum](gambar/lab1.PNG)
+
+``` python
+# penggunaan end 
+print('A', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('X')
+print('Y')
+print('Z')
+
+# pengggunaan separtor
+
+w, d, y, z = 10, 15, 20, 25
+print(w, d, y, z)
+print(w, d, y, z, sep='+')
+print(w, d, y, z, sep='x')
+print(w, d, y, z, sep=':')
+print(w, d, y, z, sep='-----')
+print(d, z, sep='=')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
