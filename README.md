@@ -12,6 +12,7 @@ TUGAS:BAHASA PEMOGRAMAN
 ###  DAFTAR ISI <br>
 
 | NO | Description | Link | <br>
+| ----- | ------ | ---- |
 | 1. | Latihan Pertemuan 5 | [click here](#pertemuan-5---tugas) | <br>
 
 
