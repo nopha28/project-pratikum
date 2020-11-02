@@ -11,15 +11,15 @@ TUGAS:BAHASA PEMOGRAMAN
 
 ###  DAFTAR ISI <br>
 
+| NO | Description | Link |
+| 1. | Latihan Pertemuan 5 | [click here](#pertemuan-5---tugas) |
 
 
 
 
 
 
-
-
-## Pertemua 5 - Tugas
+## Pertemuan 5 - Tugas
 
 Pada pertemuan 5 Bahasa Pemrograman, saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata dengan Python (Seperti Gambar dibawah ini):
 
