@@ -72,4 +72,37 @@ print(1234567)
 (seperti gambar dibawah ini)
 ![project-pratikum](gambar/nama.PNG)
 
+Keterangan : <br>
+1. Variabel adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
+2. Fungsi **input()** adalah untuk memasukkan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)*<br>
+![project-pratikum](gambar/nama1.PNG)<br>
+Pada gambar diatas, hasil dari inputan tersebut berwarna *hijau*<br><br>
+* Untuk memasukkan perintah lain seperti *Nickname, NPM, Place Of Birth, Date of Birth, Year of Birth, Phone Number, and Address* mengikuti perintah yang sama seperti memasukkan *fullname*<br>
+
+* Untuk menghitung rumus umur saya menggunakan variable *DOB* yaitu 2020 (Tahun Sekarang) dikurangi dengan Year of Birth, pada source code berikut :<br>
+``` python
+dob=2020-year
+```
+<br> Pada syntax/source code diatas, saya menggunakan variable *dob* dimana untuk menghitung umur (variable **age** pada output), yaitu degan rumus pada variable *dob=2020-year*
+<br>
+
+* Langkah kali ini saya akan menampilkan output yang diminta oleh Dosen.<br>
+Output pertama yang diminta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax/source code berikut :
+``` python
+print("\n\n Assalamu'alaikum. ")
+```
+
+Keterangan :
+1. Fungsi **\n** pada source code diatas adalah untuk memberi baris baru / enter / *(newline)*
+2. Fungsi print() seperti dijelaskan pada poin **Outout** diatas
+Hasil dari source code diatas adalah seperti gambar dibawah ini :<br>
+![Output Salam](pict/salam.PNG)<br><br>
+* Langkah terakhir adalah menampilkan semua hasil dari inputan diatas. Dengan mengetikkan source code berikut :<br>
+``` python
+print(f"Let me introduce my self. My name is {fullname}, but you can call me {nickname}. My NPM {npm}. I was born in {pob} and Iam {dob} years old. I am very glad if you want to invite my house in {address}. So don't forget to call me before with the number {phone}. \n\n Thank You ")
+```
+Keterangan :
+1. Fungsi huruf **f** pada perintah *print(f"...")* adalah fungsi print atau bisa memudahkan programmer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma ( , ) atau plus ( + )<br>
+2. Sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
+Hasil dari output tersebut seperti berikut :<br>
 
