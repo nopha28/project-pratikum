@@ -96,7 +96,7 @@ Keterangan :
 1. Fungsi **\n** pada source code diatas adalah untuk memberi baris baru / enter / *(newline)*
 2. Fungsi print() seperti dijelaskan pada poin **Outout** diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini :<br>
-![Output Salam](pict/salam.PNG)<br><br>
+![project-pratikum](gambar/tugas.PNG)<br><br>
 * Langkah terakhir adalah menampilkan semua hasil dari inputan diatas. Dengan mengetikkan source code berikut :<br>
 ``` python
 print(f"Let me introduce my self. My name is {fullname}, but you can call me {nickname}. My NPM {npm}. I was born in {pob} and Iam {dob} years old. I am very glad if you want to invite my house in {address}. So don't forget to call me before with the number {phone}. \n\n Thank You ")
@@ -106,3 +106,4 @@ Keterangan :
 2. Sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
 
+![project-pratikum](gambar/tugas5.PNG)
