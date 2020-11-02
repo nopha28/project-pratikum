@@ -106,4 +106,4 @@ Keterangan :
 2. Sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
 
-![project-pratikum](gambar/tugas5.PNG)
+![project-pratikum](gambar/latihan5.PNG)
