@@ -28,6 +28,7 @@ Pada pertemuan 5 Bahasa Pemrograman, saya diberi tugas oleh Dosen untuk membuat 
 saat ini saya akan menjelaskan hasil dari tugas tersebut.<br>
 Berikut *source code* nya atau klik link berikut(Tugas 5 python):
 
+``` python
 print("Please enter your full name : ")
 fullname=input()
 print("Please enter nickname : ")
@@ -51,3 +52,11 @@ dob=2020-year
 
 print("\n\n Assalamu'alaikum. ")
 print(f"Let me introduce my self. My name is {fullname}, but you can call me {nickname}. My NPM {npm}. I was born in {pob} and Iam {dob} years old. I am very glad if you want to invite my house in {address}. So don't forget to call me before with the number {phone}. \n\n Thank You ")
+```
+
+* Berikut penjelasannya :<br>
+
+``` python
+print("nama saya adalah .....")
+print(123456)
+```
