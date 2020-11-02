@@ -1,1 +1,1 @@
-print("masukan nama: ")
+print("nama saya adalah ....")

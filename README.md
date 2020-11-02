@@ -57,6 +57,19 @@ print(f"Let me introduce my self. My name is {fullname}, but you can call me {ni
 * Berikut penjelasannya :<br>
 
 ``` python
-print("nama saya adalah .....")
+print("please enter your full name.....")
 print(123456)
 ```
+
+source code diatas berfungsi untuk mencetak hasil/output<br>
+Untuk menampilkan output string,saya menggunakan *tanda petik dua* didalam fungsi print(),sedangkan jika saya ingin menampilkan output saya tidak perlu menggunakan tanda petik dua.
+Contohnya :
+
+``` python
+print("nama saya adalah....")
+print(1234567)
+```
+(seperti gambar dibawah ini)
+![project-pratikum](gambar/nama.PNG)
+
+
