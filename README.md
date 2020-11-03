@@ -11,9 +11,9 @@ TUGAS:BAHASA PEMOGRAMAN
 
 ###  DAFTAR ISI <br>
 
-| NO | Description | Link | <br>
-| ----- | ----- | ---- | <br>
-| 1. | Latihan Pertemuan 5 | [click here](#pertemuan-5---tugas) | <br>
+| NO | Description | Link |
+| ----- | ----- | ---- |
+| 1 | Pertemuan 5 - Tugas | [click here](#pertemuan-5---tugas) |
 
 
 
@@ -139,8 +139,58 @@ print(d, z, sep='=')
 ```
 
 
+*  Penggunaan END
+ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris. Secara default penggunaan end adalah untuk ganti baris.
+``` python
+print("A", end="")
+print("B", end="")
+print("C", end="")
+```
+
+> Penggunaan print() digunakan untuk mencetak output, seperti syntax dibawah ini :
+``` python 
+print()
+```
+
+> Syntax dibawah ini digunakan untuk menampilkan output berupa string
+``` python
+print("X")
+print("Y")
+print("Z")
+```
+
+Hasil dari source code tersebut seperti gambar dibawah ini :<br>
+
+![project-pratikum](gambar/end1.PNG)<br>
 
 
+* Penggunaan Separator
+Separator adalah pemisah yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spasi.<br><br>
+ 
+> Pendeklarasian beberapa variable beserta nilainya
+``` python
+w,x,y,z=10,15,20,25
+```
+> Menampilkan hasil dari variable tiap-tiap variable
+``` python
+print(w,x,y,z)
+```
+> Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah , (koma)
+``` python
+print(w,x,y,z,sep=",")
+```
+> Menampilkan hasil dari tiap-tiap variable tanpa menggunakan pemisah
+``` python
+print(w,x,y,z,sep="")
+```
+> Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (titik dua)
+``` python
+print(w,x,y,z,sep=":")
+```
+> Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah -----
+``` python
+print(w,x,y,z,sep="-----")
+```
 
 
 
