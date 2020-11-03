@@ -194,6 +194,49 @@ print(w,x,y,z,sep="-----")
 
 ![project-pratikum](gambar/sep1.PNG)
 
+<br>
+<hr>
+<br>
+
+## Pertemuan 6 - Lab 1-2
+
+* String Format<br>
+String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
+
+Penggunaan source code yang diberikan oleh dosen seperti berikut :<br>
+![project-pratikum](gambar/lab1-2.PNG)<br><br>
+``` python
+#String Format 1
+print(0, 10**0)
+print(1, 10**1)
+print(2, 10**2)
+print(3, 10**3)
+print(4, 10**4)
+print(5, 10**5)
+print(6, 10**6)
+print(7, 10**7)
+print(8, 10**8)
+print(9, 10**9)
+print(10, 10**10)
+
+print()
+print()
+
+#String Format 2
+print('{0:>3} {1:>16}'.format(0, 10**0))
+print('{0:>3} {1:>16}'.format(0, 10**1))
+print('{0:>3} {1:>16}'.format(0, 10**2))
+print('{0:>3} {1:>16}'.format(0, 10**3))
+print('{0:>3} {1:>16}'.format(0, 10**4))
+print('{0:>3} {1:>16}'.format(0, 10**5))
+print('{0:>3} {1:>16}'.format(0, 10**6))
+print('{0:>3} {1:>16}'.format(0, 10**7))
+print('{0:>3} {1:>16}'.format(0, 10**8))
+print('{0:>3} {1:>16}'.format(0, 10**9))
+print('{0:>3} {1:>16}'.format(0, 10**10))
+```
+<br>
+
 
 
 
