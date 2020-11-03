@@ -296,6 +296,7 @@ print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 Setelah saya menjalankan source code tersebut terdapat error, seperti gambar dibawah ini :<br>
 
 ![project-pratikum](gambar/error.PNG)<br>
+
 Nah, untuk kali ini kita akan membaca error yang telah terjadi.<br>
 > **TypeError: %d format: a number is required, not str** <br>
 
@@ -334,3 +335,5 @@ Setelah semua file berhasil disimpan dan dijalankan berhasil, maka selesai sudah
 <br>
 
 
+
+### NOVA TEGAR ADIYANSYAH / 312010145 / TI.20.A.1 <br>
