@@ -272,7 +272,25 @@ Untuk hasil dari String Format 2 adalah :<br>
 <br><hr><br>
 
 
+## Pertemuan 6 - Lab 2
 
+* Konversi Nilai Variable
+Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu Konversi Nilai Variable<br>
+Tugas yang diberikan oleh dosen adalah seperti gambar dibawah ini atau bisa di akses ke link [Pertemuan 6 - Lab 2](lab2.py) :<br>
+![project-pratikum](gambar/lab2.PNG)<br>
+``` python
+a=input("Masukkan Nilai A : ")
+b=input("Masukkan Nilai B : ")
+print("Variable A : ",a)
+print("Variable B : ",b)
+print("Hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
+
+#Konversi nilai variable
+a=int(a)
+b=int(b)
+print("Hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
 
 
 
