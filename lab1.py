@@ -15,8 +15,7 @@
 # print(w, d, y, z, sep='x')
 # print(w, d, y, z, sep=':')
 # print(w, d, y, z, sep='-----')
-# print(d, z, sep='=')
+# print(d, z, sep='='
 
-print("A", end="")
-print("B", end="")
-print("C", end="")
+print('{:<30}{:^30}{:>30}'.format('Kiri','Tengah','Kanan'))
+print('{:<30}{:^30}{:>30}'.format(12,34,56))

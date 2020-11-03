@@ -238,7 +238,38 @@ print('{0:>3} {1:>16}'.format(0, 10**10))
 <br>
 
 
+Saat ini saya akan membahas satu persatu dari syntax yang telah di berikan oleh Dosen.<br>
 
+1. **String Format 1** <br>
+Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan.<br>
+Yang pertama (sebelah kiri) akan menampilkan angka Urut dari angka 0 hingga angka 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat.<br>
+Dengan ketentuan sebagai berikut, operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
+Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. dengan output sebagai berikut : <br>
+![project-pratikum](gambar/format1.PNG)<br><br>
+
+2, **String Format 2** <br>
+Pada syntax atau source code string format 2 akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri)<br>
+Dengan ketentuan sebagai berikut : <br> 
+> Alignment, padding, dan precesion dengan **.format()** dalam kurung kurawal kita dapat menetapkan panjang bidang, rata kanan/kiri, parameter pembulatan dan banyak lagi. Contoh lain seperti berikut :
+``` python
+print('{0:8} | {1:9}'.format('Buah','Jumlah'))
+print('{0:8} | {1:9}'.format('Apel', 3.))
+print('{0:8} | {1:9}'.format('Jeruk',10))
+```
+Hasil dari source code contoh diatas akan seperti berikut :<br>
+![project-pratikum](gambar/string1.PNG)<br><br>
+>Secara Default, **.format()** menggunakan rata teks ke kiri, angka ke kanan. Kita dapat menggunakan opsi opsional <, ^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
+``` python
+print('{:<30}{:^30}{:>30}'.format('Kiri','Tengah','Kanan'))
+print('{:<30}{:^30}{:>30}'.format(12,34,56))
+```
+Hasil dari source code contoh diatas akan muncul seperti ini :<br>
+![project-pratikum](gambar/string2.PNG)
+<br><br>
+Untuk hasil dari String Format 2 adalah :<br>
+![project-pratikum](gambar/format2.PNG)
+
+<br><hr><br>
 
 
 
