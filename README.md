@@ -1,4 +1,6 @@
-# Tugas ini untuk melengkapi pertemuan 6
+# Tugas ini untuk melengkapi pertemuan 6 - Bahasa Pemograman
+
+Repository ini digunakan untuk memenuhi tugas Bahasa Pemograman  Pertemuan 6
 
 
 NAMA : Nova Tegar Adiyansyah <br>
@@ -9,15 +11,6 @@ KELAS: TI.20.A.1<br>
 
 TUGAS:BAHASA PEMOGRAMAN
 
-###  DAFTAR ISI <br>
-
-| NO | Description | Link |
-| ----- | ----- | ---- |
-| 1 | Pertemuan 5 - Tugas | [click here](#pertemuan-5---tugas) |
-
-
-
-
 
 
 ## Pertemuan 5 - Tugas
@@ -26,8 +19,7 @@ Pada pertemuan 5 Bahasa Pemrograman, saya diberi tugas oleh Dosen untuk membuat 
 
 ![latihan project-pratikum](gambar/tugas5.PNG)
 
-saat ini saya akan menjelaskan hasil dari tugas tersebut.<br>
-Berikut *source code* nya atau klik link berikut(Tugas 5 python):
+saat ini saya akan menjelaskan hasil dari tugas tersebut :<br>
 
 ``` python
 print("Please enter your full name : ")
@@ -295,7 +287,7 @@ print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 
 Setelah saya menjalankan source code tersebut terdapat error, seperti gambar dibawah ini :<br>
 
-![project-pratikum](gambar/error.PNG)<br>
+![project-pratikum](gambar/eror.PNG)<br>
 
 Nah, untuk kali ini kita akan membaca error yang telah terjadi.<br>
 > **TypeError: %d format: a number is required, not str** <br>
