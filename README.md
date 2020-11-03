@@ -192,7 +192,7 @@ print(w,x,y,z,sep=":")
 print(w,x,y,z,sep="-----")
 ```
 
-
+![project-pratikum](gambar/sep1.PNG)
 
 
 
